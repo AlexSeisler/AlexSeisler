@@ -1,7 +1,7 @@
 # Hey, I’m Alex 👋  
 **AI Systems Architect • Full-Stack SaaS Engineer • Founder @ ACS Results**
 
-I build AI-native platforms that automate execution — from agents to APIs to backend code.
+I build AI-native platforms that automate execution, from agents to APIs to backend code.
 
 ---
 
@@ -31,10 +31,10 @@ Each component is built for modularity, memory-driven execution, and multi-tenan
 
 ### 📂 Featured Projects
 
-- 🔗 [DevBot – Autonomous Code Execution Engine](https://alexseislers-portfolio.netlify.app)
-- 🔗 [CIAN – Central Intelligence Automation Network](https://alexseislers-portfolio.netlify.app)
-- 🔗 [SMMAA – Social Media Marketing Agent](https://alexseislers-portfolio.netlify.app)
-- 🔗 [ACS Results AI: Trifecta Overview](https://alexseislers-portfolio.netlify.app)
+- 🔗 [DevBot – Autonomous Code Execution Engine](https://alexseislers-portfolio.netlify.app/projects)
+- 🔗 [CIAN – Central Intelligence Automation Network](https://alexseislers-portfolio.netlify.app/projects)
+- 🔗 [SMMAA – Social Media Marketing Agent](https://alexseislers-portfolio.netlify.app/projects)
+- 🔗 [ACS Results AI: Trifecta Overview](https://alexseislers-portfolio.netlify.app/projects)
 
 ---
 
