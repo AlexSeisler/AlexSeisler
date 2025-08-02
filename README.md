@@ -31,10 +31,10 @@ Each component is built for modularity, memory-driven execution, and multi-tenan
 
 ### 📂 Featured Projects
 
-- 🔗 [DevBot – Autonomous Code Execution Engine](https://alexseislers-portfolio.netlify.app/projects)
-- 🔗 [CIAN – Central Intelligence Automation Network](https://alexseislers-portfolio.netlify.app/projects)
-- 🔗 [SMMAA – Social Media Marketing Agent](https://alexseislers-portfolio.netlify.app/projects)
-- 🔗 [ACS Results AI: Trifecta Overview](https://alexseislers-portfolio.netlify.app/projects)
+- 🔗 [DevBot – Autonomous Code Execution Engine](https://alexseislers-portfolio.netlify.app)
+- 🔗 [CIAN – Central Intelligence Automation Network](https://alexseislers-portfolio.netlify.app)
+- 🔗 [SMMAA – Social Media Marketing Agent](https://alexseislers-portfolio.netlify.app)
+- 🔗 [ACS Results AI: Trifecta Overview](https://alexseislers-portfolio.netlify.app)
 
 ---
 
