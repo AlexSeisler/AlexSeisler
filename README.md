@@ -1,7 +1,7 @@
 # Hey, I’m Alex 👋  
 **AI Systems Engineer • Full-Stack SaaS Builder • Founder of ACS Results**
 
-I design and ship **AI-native systems** that combine agents, automation, and SaaS platforms — turning workflows into scalable, production-ready products.
+I design and ship **AI-native systems** that combine agents, automation, and SaaS platforms - turning workflows into scalable, production-ready products.
 
 ---
 
