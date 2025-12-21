@@ -4,16 +4,6 @@
 I design and ship **AI-native systems** that combine agents, automation, and SaaS platforms - turning workflows into scalable, production-ready products.
 
 ---
-### Achievable SAT Project
-
-- <a href="https://sat-dashboard-v4s0.onrender.com/" target="_blank"><strong>SAT Roadmap - Main Adaptive SAT Prep Platform</strong></a>  
-  Personalized SAT prep with adaptive roadmaps, mastery tracking, and an AI study assistant.
-
-- <a href="https://sat-roadmap-cede8620.base44.app/" target="_blank"><strong>SAT Roadmap - Prototype (Base44)</strong></a>
-
-- <a href="https://sat-dashboard-bolt.netlify.app/" target="_blank"><strong>SAT Dashboard - Prototype (Bolt)</strong></a>
-
----
   
 ### 🚀 Featured Projects
 
