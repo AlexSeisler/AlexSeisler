@@ -1,10 +1,11 @@
 # Hey, I’m Alex 👋  
 **AI Systems Engineer • Full-Stack SaaS Builder • Founder of ACS Results**
 
-🌐 [acsresultsai.net](https://acsresultsai.net)
+🌐 Portfolio: [acsresultsai.net](https://acsresultsai.net)
 
-I design and ship **AI-native systems** that combine agents, automation, and SaaS platforms - turning workflows into scalable, production-ready products.
+I build AI-native SaaS systems that combine agents, automation, and real products.
 
+I enjoy building systems from idea → prototype → production and seeing them used by real people.
 ---
   
 ### 🚀 Featured Projects
@@ -40,10 +41,10 @@ I design and ship **AI-native systems** that combine agents, automation, and Saa
 
 ### 🛠 Tech Snapshot
 
-- **Languages & Frameworks:** Python, TypeScript, React, FastAPI, Node.js, Next.js  
-- **AI & Automation:** OpenAI API, LangChain, Hugging Face, Make.com, Vapi, Voiceflow  
-- **Databases & Infra:** PostgreSQL, Supabase, MongoDB, Netlify, Vercel, Render, AWS  
-- **Deployment & Tools:** GitHub Actions, Docker, CI/CD pipelines, VS Code  
+- **Languages & Frameworks:** Python, TypeScript, Java, JavaScript, React, FastAPI, Node.js, Next.js  
+- **AI & Automation:** Agentic Development Tools, MCP Servers, Lang(Ecosystem), n8n, Vapi, Voiceflow 
+- **Databases & Infra:** AWS, PostgreSQL, Supabase, MongoDB
+- **Deployment & Tools:** Docker, Netlify, Vercel, Render , CI/CD pipelines
 
 ---
 
@@ -59,5 +60,5 @@ I design and ship **AI-native systems** that combine agents, automation, and Saa
 
 I’m open to roles in **AI infrastructure, platform engineering, or full-stack SaaS**.  
 - **Email:** alex@acsresultsai.net  
-- **Portfolio:** [alexseislers-portfolio.netlify.app](acsresultsai.net)  
+- **Portfolio:** [https://acsresultsai.net](acsresultsai.net)  
 - **LinkedIn:** [linkedin.com/in/alexseisler](https://linkedin.com/in/alexseisler)  
