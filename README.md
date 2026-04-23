@@ -10,7 +10,7 @@ I enjoy building systems from idea → prototype → production and seeing them 
   
 ### 🚀 Featured Projects
 
-- **[Conversion Chatbot Framework – HYGO](https://github.com/AlexSeisler/chatbot-framework-deploy/releases/tag/v1.0.0-final-submission)**  
+- **[Conversion Chatbot Framework – HYGO](https://github.com/AlexSeisler/chatbot-framework-deploy)**  
   Production-grade AI chatbot framework built for HYGO Labs with personality-aware conversations, hybrid memory, SSE streaming, and engagement tracking.  
   → Hybrid memory system: buffer + summarization + semantic search (pgvector) + pinned facts across sessions.  
   → Real-time SSE streaming (token/complete/error/heartbeat events) with NestJS backend + Next.js 14 frontend.  
